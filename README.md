@@ -1,3 +1,6 @@
+STANDBY NOT WORKING YET(github doesnt let me change this to private so, wait a few hours!)
+
+
 # Live Traffic for VATSIM Clients
 This program brings the real world into VRC and any other server-configurable clients for VATSIM. It offers data pulled from FlightRadar24 and ADSBExchange, flightplans from FlightAware, and metars from the NOAA.
 
